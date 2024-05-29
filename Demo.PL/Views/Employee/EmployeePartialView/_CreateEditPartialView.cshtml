@@ -1,0 +1,69 @@
+﻿@using Demo.BLL.Interfaces
+@using Demo.BLL.Repositories
+@model Demo.PL.ViewModels.EmployeeViewModel
+@inject IDepartmentRepository _DepartmentRepository;
+@{
+    // var departments = ViewData["Departments"];
+    //var departments = new SelectList(ViewData["Departments"] as IEnumerable<Department>,nameof(Department.Id), nameof(Department.Name));
+    
+    var departments = new SelectList(await _DepartmentRepository.GetAllAsync(),nameof(Department.Id), nameof(Department.Name));
+}
+<div class="form-group">
+    <label asp-for="Name" class="col-form-label"></label>
+    <input asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label  class="col-form-label" asp-for="Image"></label>
+    <input  class="form-control" asp-for="Image" />
+    
+</div>
+<div class="form-group">
+    <label asp-for="Age" class="col-form-label"></label>
+    <input asp-for="Age" class="form-control" />
+    <span asp-validation-for="Age" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Salary" class="col-form-label"></label>
+    <input asp-for="Salary" class="form-control" />
+    <span asp-validation-for="Salary" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Address" class="col-form-label"></label>
+    <input asp-for="Address" class="form-control" />
+    <span asp-validation-for="Address" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Email" class="col-form-label"></label>
+    <input asp-for="Email" class="form-control" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Phone" class="col-form-label"></label>
+    <input asp-for="Phone" class="form-control" />
+    <span asp-validation-for="Phone" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="IsActive" class="form-check"></label>
+    <input asp-for="IsActive" class="form-check" />
+    <span asp-validation-for="IsActive" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="IsDeleted" class="form-check"></label>
+    <input asp-for="IsDeleted" class="form-check" />
+    <span asp-validation-for="IsDeleted" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="DataOfCreation" class="col-form-label"></label>
+    <input asp-for="DataOfCreation" class="form-control" />
+</div>
+<div class="form-group">
+    <label asp-for="HireDate" class="col-form-label"></label>
+    <input asp-for="HireDate" class="form-control" />
+</div>
+<div class="form-group">
+    <label asp-for="Department" class="col-form-label"></label>
+    <select asp-for="DepartmentId" class="form-control" asp-items="departments">
+        <option value="@null"> -- Select Department -- </option>
+    </select>
+</div>

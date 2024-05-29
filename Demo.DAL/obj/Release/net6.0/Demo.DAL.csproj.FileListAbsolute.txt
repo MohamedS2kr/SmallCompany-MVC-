@@ -1,0 +1,12 @@
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\bin\Release\net6.0\Demo.DAL.deps.json
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\bin\Release\net6.0\Demo.DAL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\bin\Release\net6.0\Demo.DAL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\Demo.DAL.AssemblyInfo.cs
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\Demo.DAL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\refint\Demo.DAL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\Demo.DAL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07 (Full Project)\Demo.DAL\obj\Release\net6.0\ref\Demo.DAL.dll

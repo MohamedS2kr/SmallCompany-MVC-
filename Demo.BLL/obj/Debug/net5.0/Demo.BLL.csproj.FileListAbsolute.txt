@@ -1,0 +1,60 @@
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 03\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 05\Demo\Demo MVC Project Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 06\Demo\Demo MVC Project Solution 06\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+F:\ASP.NET Route Academy\05 MVC\Session 07\Demo\Demo MVC Project Solution 07\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll

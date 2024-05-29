@@ -1,0 +1,185 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\Files\\Images\\240659887_1690378574494520_399653716341407374_n.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\240659887_1690378574494520_399653716341407374_n.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\Files\\Images\\5596.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\5596.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\Files\\Images\\91761153_553281785597773_2304035691270504448_n.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\91761153_553281785597773_2304035691270504448_n.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\Files\\Images\\dd507fea-8409-498b-ab74-866c1fb58e7991761153_553281785597773_2304035691270504448_n.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\dd507fea-8409-498b-ab74-866c1fb58e7991761153_553281785597773_2304035691270504448_n.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\css\\AuthStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyleSheet.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Academy\\05 MVC\\Session 07\\Demo\\Demo MVC Project Solution 07 (Full Project)\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.build.Demo.PL.props",
+      "PackagePath": "build\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.Demo.PL.props",
+      "PackagePath": "buildMultiTargeting\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.Demo.PL.props",
+      "PackagePath": "buildTransitive\\Demo.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

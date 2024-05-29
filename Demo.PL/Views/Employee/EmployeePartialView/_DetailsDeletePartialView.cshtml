@@ -1,0 +1,58 @@
+﻿@model Demo.PL.ViewModels.EmployeeViewModel
+
+@if(Model.ImageName is not null)
+{
+    <div class="from-group">
+        <img src="~/Files/Images/@Model.ImageName" class="rounded" width="100" height="100" />
+    </div>
+}
+
+<input asp-for="ImageName" hidden />
+<div class="form-group">
+    <label asp-for="Name" class="col-form-label"></label>
+    <input readonly asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Age" class="col-form-label"></label>
+    <input readonly asp-for="Age" class="form-control" />
+    <span asp-validation-for="Age" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Salary" class="col-form-label"></label>
+    <input readonly asp-for="Salary" class="form-control" />
+    <span asp-validation-for="Salary" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Address" class="col-form-label"></label>
+    <input readonly asp-for="Address" class="form-control" />
+    <span asp-validation-for="Address" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Email" class="col-form-label"></label>
+    <input readonly asp-for="Email" class="form-control" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Phone" class="col-form-label"></label>
+    <input readonly asp-for="Phone" class="form-control" />
+    <span asp-validation-for="Phone" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="IsActive" class="form-check"></label>
+    <input readonly asp-for="IsActive" class="form-check" />
+    <span asp-validation-for="IsActive" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="IsDeleted" class="form-check"></label>
+    <input readonly asp-for="IsDeleted" class="form-check" />
+    <span asp-validation-for="IsDeleted" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="DataOfCreation" class="col-form-label"></label>
+    <input readonly asp-for="DataOfCreation" class="form-control" />
+</div>
+<div class="form-group">
+    <label asp-for="HireDate" class="col-form-label"></label>
+    <input readonly asp-for="HireDate" class="form-control" />
+</div>
